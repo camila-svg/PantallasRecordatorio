@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PantallasRecordatorio</string>
+    <string name="id">id\n</string>
+    <string name="nombreActividad">nombreActividad\n</string>
+    <string name="FechaHora">FechaHora</string>
+    <string name="cancelBoton">cancelar</string>
+    <string name="saveAgenda">Guardar</string>
+    <string name="realizado">realizado</string>
+</resources>
